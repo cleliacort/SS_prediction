@@ -1,2 +1,2 @@
 # SS_prediction
-Tutorial to perform and valuate a secondary structures prediction using the GOR and the SVM methods.
+Tutorial to perform and evaluate a secondary structures prediction using the GOR and the SVM methods.
